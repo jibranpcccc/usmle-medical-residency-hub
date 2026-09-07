@@ -1,0 +1,512 @@
+[
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-1",
+    "title": "r/tax Professional & Expat Guidance",
+    "platform": "Reddit",
+    "category": "Tax Planning",
+    "memberCount": "260,000+ members",
+    "description": "Community for tax professionals, CPAs, and individuals discussing tax laws, treaties, deduction strategies, and compliance.",
+    "joinUrl": "https://www.reddit.com/r/tax/",
+    "tags": [
+      "tax",
+      "cpa",
+      "compliance",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-2",
+    "title": "r/expatfinance Global Wealth Management",
+    "platform": "Reddit",
+    "category": "Expat Finance",
+    "memberCount": "48,000+ members",
+    "description": "Dedicated discussions on managing investments, pensions, cross-border banking, and international tax treaties as an expat.",
+    "joinUrl": "https://www.reddit.com/r/expatfinance/",
+    "tags": [
+      "expat",
+      "finance",
+      "banking",
+      "investing"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-3",
+    "title": "r/ExpatFIRE International Financial Independence",
+    "platform": "Reddit",
+    "category": "Expat FIRE",
+    "memberCount": "120,000+ members",
+    "description": "Achieving early retirement abroad through geographic arbitrage, low-tax residency jurisdictions, and offshore structures.",
+    "joinUrl": "https://www.reddit.com/r/ExpatFIRE/",
+    "tags": [
+      "expatfire",
+      "geo-arbitrage",
+      "retirement",
+      "nomad"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-4",
+    "title": "r/expats Global Relocation Community",
+    "platform": "Reddit",
+    "category": "International Living",
+    "memberCount": "310,000+ members",
+    "description": "Peer discussions on international relocation, visa applications, healthcare abroad, cultural adaptation, and residency permits.",
+    "joinUrl": "https://www.reddit.com/r/expats/",
+    "tags": [
+      "expats",
+      "relocation",
+      "visas",
+      "global"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-5",
+    "title": "r/digitalnomad Location Independent Living",
+    "platform": "Reddit",
+    "category": "Digital Nomads",
+    "memberCount": "2,350,000+ members",
+    "description": "The world's largest community for location-independent entrepreneurs, remote workers, tax optimization, and coliving hubs.",
+    "joinUrl": "https://www.reddit.com/r/digitalnomad/",
+    "tags": [
+      "digitalnomad",
+      "remotework",
+      "travel",
+      "nomad"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-6",
+    "title": "r/IWantOut Emigration & Visas",
+    "platform": "Reddit",
+    "category": "Immigration",
+    "memberCount": "2,100,000+ members",
+    "description": "Practical guides and peer support for individuals seeking emigration, citizenship by descent, work permits, and second passports.",
+    "joinUrl": "https://www.reddit.com/r/IWantOut/",
+    "tags": [
+      "iwantout",
+      "immigration",
+      "passports",
+      "visas"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-7",
+    "title": "r/dubai Business & Expat Hub",
+    "platform": "Reddit",
+    "category": "Dubai Residency",
+    "memberCount": "490,000+ members",
+    "description": "Discussions on living, corporate tax, mainland vs freezone LLC setup, golden visas, and business operations in Dubai and the UAE.",
+    "joinUrl": "https://www.reddit.com/r/dubai/",
+    "tags": [
+      "dubai",
+      "uae",
+      "residency",
+      "tax-free"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-8",
+    "title": "r/financialindependence Wealth Accumulation",
+    "platform": "Reddit",
+    "category": "Wealth Building",
+    "memberCount": "2,350,000+ members",
+    "description": "Frameworks for building generational wealth, maximizing savings rates, index investing, and strategic cash flow management.",
+    "joinUrl": "https://www.reddit.com/r/financialindependence/",
+    "tags": [
+      "fire",
+      "wealth",
+      "investing",
+      "retirement"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-9",
+    "title": "r/smallbusiness Corporate Structuring",
+    "platform": "Reddit",
+    "category": "Business Structure",
+    "memberCount": "2,400,000+ members",
+    "description": "Practical business operations, LLC formation, banking relationships, corporate governance, and operational efficiency.",
+    "joinUrl": "https://www.reddit.com/r/smallbusiness/",
+    "tags": [
+      "smallbusiness",
+      "llc",
+      "operations",
+      "business"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-10",
+    "title": "r/Entrepreneur Global Founders",
+    "platform": "Reddit",
+    "category": "Entrepreneurship",
+    "memberCount": "3,500,000+ members",
+    "description": "International community of founders building scalable businesses, structuring foreign subsidiaries, and managing international revenue.",
+    "joinUrl": "https://www.reddit.com/r/Entrepreneur/",
+    "tags": [
+      "entrepreneur",
+      "business",
+      "founders",
+      "revenue"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-11",
+    "title": "r/investing Portfolio Allocation",
+    "platform": "Reddit",
+    "category": "Asset Management",
+    "memberCount": "2,600,000+ members",
+    "description": "Global investing discussions, international asset allocation, risk mitigation, and institutional macroeconomic trends.",
+    "joinUrl": "https://www.reddit.com/r/investing/",
+    "tags": [
+      "investing",
+      "assets",
+      "stocks",
+      "global"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-12",
+    "title": "r/rich Wealth Preservation Guild",
+    "platform": "Reddit",
+    "category": "High Net Worth",
+    "memberCount": "85,000+ members",
+    "description": "Discussions on family offices, trust structures, asset protection, multi-jurisdiction holdings, and lifestyle engineering.",
+    "joinUrl": "https://www.reddit.com/r/rich/",
+    "tags": [
+      "wealth",
+      "family-office",
+      "trusts",
+      "protection"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-13",
+    "title": "r/fatFIRE High Net Worth Early Retirement",
+    "platform": "Reddit",
+    "category": "High Net Worth",
+    "memberCount": "410,000+ members",
+    "description": "High net worth individuals discussing eight-figure retirement planning, tax structuring, private banking, and international residency.",
+    "joinUrl": "https://www.reddit.com/r/fatFIRE/",
+    "tags": [
+      "fatfire",
+      "wealth",
+      "private-banking",
+      "investing"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-14",
+    "title": "r/PassportPorn Second Citizenships",
+    "platform": "Reddit",
+    "category": "Dual Citizenship",
+    "memberCount": "195,000+ members",
+    "description": "Community showcasing and discussing dual citizenship, passports, naturalization requirements, and legal citizenship by investment.",
+    "joinUrl": "https://www.reddit.com/r/PassportPorn/",
+    "tags": [
+      "passports",
+      "citizenship",
+      "travel",
+      "visas"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-15",
+    "title": "r/AmerExit International Relocation",
+    "platform": "Reddit",
+    "category": "Expatriation",
+    "memberCount": "95,000+ members",
+    "description": "Resources and discussions on expatriation, FEIE foreign earned income exclusions, FATCA compliance, and moving abroad.",
+    "joinUrl": "https://www.reddit.com/r/AmerExit/",
+    "tags": [
+      "amerexit",
+      "feie",
+      "fatca",
+      "relocation"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-discord-16",
+    "title": "Nomads Official Discord Community",
+    "platform": "Discord",
+    "category": "Digital Nomads",
+    "memberCount": "48,000+ members",
+    "description": "Active global Discord for digital nomads, discussing low-tax countries, digital nomad visas, coliving spaces, and remote work tools.",
+    "joinUrl": "https://discord.gg/nomads",
+    "tags": [
+      "nomads",
+      "discord",
+      "visas",
+      "remotework"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-discord-17",
+    "title": "Personal Finance Community Discord",
+    "platform": "Discord",
+    "category": "Personal Finance",
+    "memberCount": "95,000+ members",
+    "description": "Real-time Discord community providing guidance on budgeting, cross-border accounts, tax planning, and investment allocation.",
+    "joinUrl": "https://discord.gg/personalfinance",
+    "tags": [
+      "finance",
+      "discord",
+      "budgeting",
+      "wealth"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-discord-18",
+    "title": "FIRE Movement Official Discord",
+    "platform": "Discord",
+    "category": "Financial Freedom",
+    "memberCount": "65,000+ members",
+    "description": "Dedicated community for financial independence, discussing geo-arbitrage, tax optimization, and safe withdrawal rates.",
+    "joinUrl": "https://discord.gg/fire",
+    "tags": [
+      "fire",
+      "discord",
+      "investing",
+      "independence"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-discord-19",
+    "title": "Expat Entrepreneurs Discord Lounge",
+    "platform": "Discord",
+    "category": "International Business",
+    "memberCount": "32,000+ members",
+    "description": "Networking hub for entrepreneurs running cross-border agencies, e-commerce brands, and consulting practices abroad.",
+    "joinUrl": "https://discord.gg/expats",
+    "tags": [
+      "expats",
+      "discord",
+      "business",
+      "entrepreneurs"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-telegram-20",
+    "title": "Nomad Capitalist Updates Telegram",
+    "platform": "Telegram",
+    "category": "Offshore Strategy",
+    "memberCount": "72,000+ members",
+    "description": "Curated analysis on global citizenship, offshore banking jurisdictions, legal tax strategies, and passport diversification.",
+    "joinUrl": "https://t.me/nomadcapitalist",
+    "tags": [
+      "nomad",
+      "telegram",
+      "offshore",
+      "passports"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-telegram-21",
+    "title": "Offshore Banking & Tax Network Telegram",
+    "platform": "Telegram",
+    "category": "Offshore Banking",
+    "memberCount": "45,000+ members",
+    "description": "Updates on international banking regulations, multi-currency accounts, international wire routing, and compliance standards.",
+    "joinUrl": "https://t.me/offshorebanking",
+    "tags": [
+      "offshore",
+      "telegram",
+      "banking",
+      "compliance"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-telegram-22",
+    "title": "Dubai Business & LLC Setup Telegram",
+    "platform": "Telegram",
+    "category": "UAE Business",
+    "memberCount": "58,000+ members",
+    "description": "Guidance and networking for UAE freezone setups, corporate bank account approvals, Emirates IDs, and tax residency certificates.",
+    "joinUrl": "https://t.me/dubaibusiness",
+    "tags": [
+      "dubai",
+      "telegram",
+      "business",
+      "tax-free"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-telegram-23",
+    "title": "Digital Nomad Wealth Telegram",
+    "platform": "Telegram",
+    "category": "Wealth Optimization",
+    "memberCount": "38,000+ members",
+    "description": "Tips on geographic arbitrage, low-tax nomad hubs (Portugal, Georgia, Cyprus, Dubai), and international health insurance.",
+    "joinUrl": "https://t.me/nomadwealth",
+    "tags": [
+      "nomad",
+      "telegram",
+      "wealth",
+      "arbitrage"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-telegram-24",
+    "title": "Expat Tax & Relocation Alerts Telegram",
+    "platform": "Telegram",
+    "category": "Relocation News",
+    "memberCount": "34,000+ members",
+    "description": "Timely alerts on global immigration policies, golden visa price changes, bilateral tax treaties, and exit taxes.",
+    "joinUrl": "https://t.me/expattax",
+    "tags": [
+      "tax",
+      "telegram",
+      "immigration",
+      "treaties"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-telegram-25",
+    "title": "Bloomberg Wealth & Macro Broadcast",
+    "platform": "Telegram",
+    "category": "Macroeconomics",
+    "memberCount": "240,000+ members",
+    "description": "Global macroeconomic reporting, interest rate shifts, currency movements, and sovereign debt developments.",
+    "joinUrl": "https://t.me/bloomberg",
+    "tags": [
+      "bloomberg",
+      "telegram",
+      "macro",
+      "wealth"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-26",
+    "title": "r/legaladvice Legal Fundamentals",
+    "platform": "Reddit",
+    "category": "Legal Principles",
+    "memberCount": "2,800,000+ members",
+    "description": "Discussions on contractual law, business formation, liability protections, intellectual property, and jurisdictional principles.",
+    "joinUrl": "https://www.reddit.com/r/legaladvice/",
+    "tags": [
+      "legal",
+      "contracts",
+      "law",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-27",
+    "title": "r/panama Latin American Banking Hub",
+    "platform": "Reddit",
+    "category": "Jurisdictions",
+    "memberCount": "82,000+ members",
+    "description": "Community discussing living, friendly nations visa, territorial tax systems, and banking options in Panama.",
+    "joinUrl": "https://www.reddit.com/r/panama/",
+    "tags": [
+      "panama",
+      "territorial-tax",
+      "visas",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-28",
+    "title": "r/portugalexpats NHR & Relocation",
+    "platform": "Reddit",
+    "category": "European Living",
+    "memberCount": "65,000+ members",
+    "description": "Discussions on relocating to Portugal, D8 digital nomad visas, IFICI tax regime, and residency renewal processes.",
+    "joinUrl": "https://www.reddit.com/r/portugalexpats/",
+    "tags": [
+      "portugal",
+      "nhr",
+      "europe",
+      "visas"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-reddit-29",
+    "title": "r/business Global Corporate Strategies",
+    "platform": "Reddit",
+    "category": "Global Enterprise",
+    "memberCount": "1,400,000+ members",
+    "description": "Enterprise strategy discussions, multinational trade, corporate finance, and executive leadership perspectives.",
+    "joinUrl": "https://www.reddit.com/r/business/",
+    "tags": [
+      "business",
+      "corporate",
+      "enterprise",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "usmle-international-medical-grads-hub-discord-30",
+    "title": "Startups & Venture Community Discord",
+    "platform": "Discord",
+    "category": "Startups",
+    "memberCount": "85,000+ members",
+    "description": "Global Discord for founders building tech companies, raising capital, structuring holding entities, and scaling.",
+    "joinUrl": "https://discord.gg/startups",
+    "tags": [
+      "startups",
+      "discord",
+      "founders",
+      "venture"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
