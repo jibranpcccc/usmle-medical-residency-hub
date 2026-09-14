@@ -1,6 +1,25 @@
 [
   {
     "id": "usmle-medical-residency-hub-reddit-20260914-1",
+    "title": "r/realestateinvesting Wealth Hub",
+    "platform": "Reddit",
+    "category": "Real Estate",
+    "memberCount": "540,000+ members",
+    "description": "Strategies for rental property acquisition, BRRRR method, commercial syndication, and 1031 tax exchanges.",
+    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
+    "tags": [
+      "real-estate",
+      "syndications",
+      "investing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-14"
+  },
+  {
+    "id": "usmle-medical-residency-hub-reddit-20260914-1",
     "title": "r/wallstreetbets Alpha & Options",
     "platform": "Reddit",
     "category": "Trading",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
