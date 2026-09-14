@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-medical-residency-hub-reddit-20260914-1",
+    "title": "r/wallstreetbets Alpha & Options",
+    "platform": "Reddit",
+    "category": "Trading",
+    "memberCount": "16,500,000+ members",
+    "description": "High-volatility trading discussions, market momentum plays, options strategies, and viral retail sentiment.",
+    "joinUrl": "https://www.reddit.com/r/wallstreetbets/",
+    "tags": [
+      "wsb",
+      "trading",
+      "options",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-14"
+  },
+  {
     "id": "usmle-medical-residency-hub-reddit-20260913-1",
     "title": "r/personalfinance Money Management",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
   },
   {
