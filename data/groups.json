@@ -1,17 +1,17 @@
 [
   {
-    "id": "usmle-medical-residency-hub-discord-20260915-1",
-    "title": "Stock Market Discord Hub",
-    "platform": "Discord",
-    "category": "Trading & Stocks",
-    "memberCount": "110,000+ members",
-    "description": "Active market discord providing live voice trading rooms, technical chart analysis, and economic calendar feeds.",
-    "joinUrl": "https://discord.gg/stocks",
+    "id": "usmle-medical-residency-hub-reddit-20260915-1",
+    "title": "r/medicalschool Residency & Match Forum",
+    "platform": "Reddit",
+    "category": "Medical Education",
+    "memberCount": "625,000+ members",
+    "description": "Premier community for medical students and international medical graduates preparing for USMLE Steps, clinical clerkships, and NRMP residency match.",
+    "joinUrl": "https://www.reddit.com/r/medicalschool/",
     "tags": [
-      "stocks",
-      "trading",
-      "discord",
-      "market"
+      "medical-school",
+      "usmle",
+      "residency",
+      "reddit"
     ],
     "verified": true,
     "featured": true,
