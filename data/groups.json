@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-medical-residency-hub-reddit-20260922-1",
+    "title": "Commercial Real Estate & Syndications",
+    "platform": "Reddit",
+    "category": "Commercial",
+    "memberCount": "120,000+ members",
+    "description": "High-tier institutional and private syndication community covering multifamily assets, cap rates, and deal structuring.",
+    "joinUrl": "https://www.reddit.com/r/CommercialRealEstate/",
+    "tags": [
+      "commercial",
+      "syndication",
+      "multifamily",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-22"
+  },
+  {
     "id": "usmle-medical-residency-hub-reddit-20260921-1",
     "title": "Real Estate Mastermind Subreddit",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-21"
   },
   {
