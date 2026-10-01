@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-medical-residency-hub-reddit-20261001-1",
+    "title": "Mortgages & Creative Financing Hub",
+    "platform": "Reddit",
+    "category": "Creative Finance",
+    "memberCount": "65,000+ members",
+    "description": "Subject-to financing, seller finance notes, hard money lending, and BRRRR refinancing execution.",
+    "joinUrl": "https://www.reddit.com/r/Mortgages/",
+    "tags": [
+      "creative-finance",
+      "mortgages",
+      "lending",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-01"
+  },
+  {
     "id": "usmle-medical-residency-hub-reddit-20260930-1",
     "title": "PropTech & Automated Deal Finding",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-30"
   },
   {
