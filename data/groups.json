@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-medical-residency-hub-discord-20261005-1",
+    "title": "Global Investing & Real Estate Guild",
+    "platform": "Discord",
+    "category": "Investing",
+    "memberCount": "150,000+ members",
+    "description": "Multi-asset investment discussions with dedicated real estate channels, market updates, and portfolio tracking.",
+    "joinUrl": "https://discord.gg/investing",
+    "tags": [
+      "investing",
+      "real-estate",
+      "discord",
+      "portfolios"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-05"
+  },
+  {
     "id": "usmle-medical-residency-hub-discord-20261003-1",
     "title": "Real Estate Global Discord Server",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-03"
   },
   {
