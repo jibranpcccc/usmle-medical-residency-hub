@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-medical-residency-hub-discord-20261009-1",
+    "title": "Business & Real Estate Network",
+    "platform": "Discord",
+    "category": "Business Scaling",
+    "memberCount": "50,000+ members",
+    "description": "Scaling real estate wholesaling operations, cold calling scripts, VA management, and CRM automation.",
+    "joinUrl": "https://discord.gg/business",
+    "tags": [
+      "business-scaling",
+      "wholesaling",
+      "discord",
+      "automation"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-09"
+  },
+  {
     "id": "usmle-medical-residency-hub-discord-20261008-1",
     "title": "Finance & Cash Flow Real Estate Hub",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-08"
   },
   {
