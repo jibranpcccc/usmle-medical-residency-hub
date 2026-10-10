@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-medical-residency-hub-discord-20261010-1",
+    "title": "Real Estate Entrepreneurs Syndicate",
+    "platform": "Discord",
+    "category": "Entrepreneurs",
+    "memberCount": "55,000+ members",
+    "description": "Founders, flippers, and wholesalers sharing live deal contracts, title company contacts, and private lenders.",
+    "joinUrl": "https://discord.gg/entrepreneur",
+    "tags": [
+      "entrepreneurs",
+      "private-lenders",
+      "discord",
+      "dealflow"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-10"
+  },
+  {
     "id": "usmle-medical-residency-hub-discord-20261009-1",
     "title": "Business & Real Estate Network",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-09"
   },
   {

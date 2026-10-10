@@ -4,10 +4,17 @@
     <title>USMLE &amp; International Medical Grads Hub</title>
     <link>https://usmle-medical-residency-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:01:16 GMT</lastBuildDate>
     <atom:link href="https://usmle-medical-residency-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Real Estate Entrepreneurs Syndicate (Discord)</title>
+      <link>https://discord.gg/entrepreneur</link>
+      <guid isPermaLink="false">https://usmle-medical-residency-hub.vercel.app/#usmle-medical-residency-hub-discord-20261010-1-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 06:01:16 GMT</pubDate>
+      <description>Newly verified community added to USMLE &amp; International Medical Grads Hub: Founders, flippers, and wholesalers sharing live deal contracts, title company contacts, and private lenders.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Business &amp; Real Estate Network (Discord)</title>
       <link>https://discord.gg/business</link>
       <guid isPermaLink="false">https://usmle-medical-residency-hub.vercel.app/#usmle-medical-residency-hub-discord-20261009-1-2026-10-09</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://usmle-medical-residency-hub.vercel.app/#usmle-medical-residency-hub-reddit-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:30:26 GMT</pubDate>
       <description>Newly verified community added to USMLE &amp; International Medical Grads Hub: Real-time market discussions, earnings reports, analyst ratings, and macroeconomic trends.</description>
-    </item>
-<item>
-      <title>USMLE &amp; International Medical Grads Hub Initial Release</title>
-      <link>https://usmle-medical-residency-hub.vercel.app/</link>
-      <pubDate>Mon, 07 Sep 2026 12:16:10 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
