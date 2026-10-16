@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-medical-residency-hub-telegram-20261016-1",
+    "title": "Commercial Real Estate Network",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "11,800+ members",
+    "description": "Institutional grade property discussions, debt structuring, office-to-residential conversions, and industrial hubs.",
+    "joinUrl": "https://t.me/commercialrealestate",
+    "tags": [
+      "telegram",
+      "commercial",
+      "industrial",
+      "conversions"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-16"
+  },
+  {
     "id": "usmle-medical-residency-hub-telegram-20261015-1",
     "title": "Global Real Estate News & Intelligence",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-15"
   },
   {
