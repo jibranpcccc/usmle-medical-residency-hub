@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-medical-residency-hub-telegram-20261018-1",
+    "title": "Off-Market Property Deals Channel",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "12,900+ members",
+    "description": "Curated listings of distress sales, tax deed properties, and deep discount wholesale opportunities.",
+    "joinUrl": "https://t.me/propertydeals",
+    "tags": [
+      "telegram",
+      "off-market",
+      "tax-deeds",
+      "discounts"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-18"
+  },
+  {
     "id": "usmle-medical-residency-hub-telegram-20261017-1",
     "title": "Real Estate Wholesaling & Investing Alerts",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-17"
   },
   {
