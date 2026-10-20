@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-medical-residency-hub-telegram-20261020-1",
+    "title": "Macro Markets & Real Estate Liquidity",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "42,000+ members",
+    "description": "Real-time liquidity tracking and financial conditions impacting mortgage rates and real estate credit.",
+    "joinUrl": "https://t.me/daytrading",
+    "tags": [
+      "telegram",
+      "liquidity",
+      "credit",
+      "macro"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-20"
+  },
+  {
     "id": "usmle-medical-residency-hub-telegram-20261019-1",
     "title": "Global Investors Alpha Telegram",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-19"
   },
   {
