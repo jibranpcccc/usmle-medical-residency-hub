@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-medical-residency-hub-telegram-20261025-1",
+    "title": "Remote Tech Jobs Channel",
+    "platform": "Telegram",
+    "category": "Remote Careers",
+    "memberCount": "68,000+ members",
+    "description": "Daily verified global remote openings for software engineers, product managers, and designers.",
+    "joinUrl": "https://t.me/remotework_jobs",
+    "tags": [
+      "remote-jobs",
+      "telegram",
+      "careers",
+      "tech"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-25"
+  },
+  {
     "id": "usmle-medical-residency-hub-reddit-20261024-1",
     "title": "r/cscareerquestions Advisory",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-24"
   },
   {
