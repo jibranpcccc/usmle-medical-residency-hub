@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-international-medical-grads-hub-reddit-2",
+    "title": "r/expatfinance Global Wealth Management",
+    "platform": "Reddit",
+    "category": "Expat Finance",
+    "memberCount": "48,000+ members",
+    "description": "Dedicated discussions on managing investments, pensions, cross-border banking, and international tax treaties as an expat.",
+    "joinUrl": "https://www.reddit.com/r/expatfinance/",
+    "tags": [
+      "expat",
+      "finance",
+      "banking",
+      "investing"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "id": "usmle-international-medical-grads-hub-reddit-1",
     "title": "r/tax Professional & Expat Guidance",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -853,24 +872,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "usmle-international-medical-grads-hub-reddit-2",
-    "title": "r/expatfinance Global Wealth Management",
-    "platform": "Reddit",
-    "category": "Expat Finance",
-    "memberCount": "48,000+ members",
-    "description": "Dedicated discussions on managing investments, pensions, cross-border banking, and international tax treaties as an expat.",
-    "joinUrl": "https://www.reddit.com/r/expatfinance/",
-    "tags": [
-      "expat",
-      "finance",
-      "banking",
-      "investing"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "usmle-international-medical-grads-hub-reddit-3",
