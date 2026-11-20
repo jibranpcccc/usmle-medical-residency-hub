@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-international-medical-grads-hub-reddit-3",
+    "title": "r/ExpatFIRE International Financial Independence",
+    "platform": "Reddit",
+    "category": "Expat FIRE",
+    "memberCount": "120,000+ members",
+    "description": "Achieving early retirement abroad through geographic arbitrage, low-tax residency jurisdictions, and offshore structures.",
+    "joinUrl": "https://www.reddit.com/r/ExpatFIRE/",
+    "tags": [
+      "expatfire",
+      "geo-arbitrage",
+      "retirement",
+      "nomad"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "id": "usmle-international-medical-grads-hub-reddit-2",
     "title": "r/expatfinance Global Wealth Management",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -872,24 +891,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "usmle-international-medical-grads-hub-reddit-3",
-    "title": "r/ExpatFIRE International Financial Independence",
-    "platform": "Reddit",
-    "category": "Expat FIRE",
-    "memberCount": "120,000+ members",
-    "description": "Achieving early retirement abroad through geographic arbitrage, low-tax residency jurisdictions, and offshore structures.",
-    "joinUrl": "https://www.reddit.com/r/ExpatFIRE/",
-    "tags": [
-      "expatfire",
-      "geo-arbitrage",
-      "retirement",
-      "nomad"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "usmle-international-medical-grads-hub-reddit-4",
