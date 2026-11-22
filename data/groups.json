@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-international-medical-grads-hub-reddit-5",
+    "title": "r/digitalnomad Location Independent Living",
+    "platform": "Reddit",
+    "category": "Digital Nomads",
+    "memberCount": "2,350,000+ members",
+    "description": "The world's largest community for location-independent entrepreneurs, remote workers, tax optimization, and coliving hubs.",
+    "joinUrl": "https://www.reddit.com/r/digitalnomad/",
+    "tags": [
+      "digitalnomad",
+      "remotework",
+      "travel",
+      "nomad"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "id": "usmle-international-medical-grads-hub-reddit-4",
     "title": "r/expats Global Relocation Community",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -910,24 +929,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "usmle-international-medical-grads-hub-reddit-5",
-    "title": "r/digitalnomad Location Independent Living",
-    "platform": "Reddit",
-    "category": "Digital Nomads",
-    "memberCount": "2,350,000+ members",
-    "description": "The world's largest community for location-independent entrepreneurs, remote workers, tax optimization, and coliving hubs.",
-    "joinUrl": "https://www.reddit.com/r/digitalnomad/",
-    "tags": [
-      "digitalnomad",
-      "remotework",
-      "travel",
-      "nomad"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "usmle-international-medical-grads-hub-reddit-6",
