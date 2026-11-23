@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-international-medical-grads-hub-reddit-6",
+    "title": "r/IWantOut Emigration & Visas",
+    "platform": "Reddit",
+    "category": "Immigration",
+    "memberCount": "2,100,000+ members",
+    "description": "Practical guides and peer support for individuals seeking emigration, citizenship by descent, work permits, and second passports.",
+    "joinUrl": "https://www.reddit.com/r/IWantOut/",
+    "tags": [
+      "iwantout",
+      "immigration",
+      "passports",
+      "visas"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-23"
+  },
+  {
     "id": "usmle-international-medical-grads-hub-reddit-5",
     "title": "r/digitalnomad Location Independent Living",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-22"
   },
   {
@@ -929,24 +948,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "usmle-international-medical-grads-hub-reddit-6",
-    "title": "r/IWantOut Emigration & Visas",
-    "platform": "Reddit",
-    "category": "Immigration",
-    "memberCount": "2,100,000+ members",
-    "description": "Practical guides and peer support for individuals seeking emigration, citizenship by descent, work permits, and second passports.",
-    "joinUrl": "https://www.reddit.com/r/IWantOut/",
-    "tags": [
-      "iwantout",
-      "immigration",
-      "passports",
-      "visas"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "usmle-international-medical-grads-hub-reddit-7",
