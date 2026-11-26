@@ -1,5 +1,24 @@
 [
   {
+    "id": "usmle-international-medical-grads-hub-reddit-9",
+    "title": "r/smallbusiness Corporate Structuring",
+    "platform": "Reddit",
+    "category": "Business Structure",
+    "memberCount": "2,400,000+ members",
+    "description": "Practical business operations, LLC formation, banking relationships, corporate governance, and operational efficiency.",
+    "joinUrl": "https://www.reddit.com/r/smallbusiness/",
+    "tags": [
+      "smallbusiness",
+      "llc",
+      "operations",
+      "business"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "usmle-international-medical-grads-hub-reddit-8",
     "title": "r/financialindependence Wealth Accumulation",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -986,24 +1005,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "usmle-international-medical-grads-hub-reddit-9",
-    "title": "r/smallbusiness Corporate Structuring",
-    "platform": "Reddit",
-    "category": "Business Structure",
-    "memberCount": "2,400,000+ members",
-    "description": "Practical business operations, LLC formation, banking relationships, corporate governance, and operational efficiency.",
-    "joinUrl": "https://www.reddit.com/r/smallbusiness/",
-    "tags": [
-      "smallbusiness",
-      "llc",
-      "operations",
-      "business"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "usmle-international-medical-grads-hub-reddit-10",
